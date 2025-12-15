@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Sidebar from "./components/Sidebar";
 import Header from "./components/Header";
 import Dashboard from "./components/Dashboard";
@@ -16,7 +16,6 @@ function App() {
   return (
     <div className={`app ${darkMode ? "dark" : "light"}`}>
       <Sidebar page={page} setPage={setPage} />
-
       <div className="main-content">
         <Header />
         {page === "home" && <Dashboard darkMode={darkMode} themeColor={themeColor} />}
