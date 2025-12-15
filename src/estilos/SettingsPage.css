@@ -1,0 +1,3 @@
+.settings { padding: 20px; }
+.settings h2 { margin-bottom: 20px; }
+.setting-item { margin-bottom: 20px; display: flex; align-items: center; gap: 10px; }

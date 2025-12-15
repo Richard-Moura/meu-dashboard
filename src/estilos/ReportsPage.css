@@ -1,0 +1,6 @@
+.reports { padding: 20px; }
+.reports h2 { margin-bottom: 15px; }
+.chart-container {
+  height: 300px;
+  width: 100%;
+}
