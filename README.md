@@ -1,7 +1,6 @@
 # 🌟 Dashboard em React
-
-![Banner do Projeto](./assets/banner.png)  
-*Substitua pelo banner ou GIF do seu dashboard*
+Clique para vizualizar:
+https://richard-moura.github.io/meu-dashboard/
 
 ---
 
