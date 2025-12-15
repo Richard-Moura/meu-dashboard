@@ -1,4 +1,4 @@
-import React from "react";
+
 import LineChartComponent from "./LineChartComponent";
 import "../estilos/ReportsPage.css";
 

@@ -1,4 +1,4 @@
-import React from "react";
+
 import "../estilos/Sidebar.css";
 
 interface SidebarProps {

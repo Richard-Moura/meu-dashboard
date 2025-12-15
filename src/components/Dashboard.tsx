@@ -1,4 +1,3 @@
-import React from "react";
 import Card from "./Card";
 import LineChartComponent from "./LineChartComponent";
 import "../estilos/Dashboard.css";

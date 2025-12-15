@@ -1,4 +1,3 @@
-import React from "react";
 import "../estilos/Header.css";
 
 function Header() {
